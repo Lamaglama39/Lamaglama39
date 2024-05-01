@@ -1,10 +1,25 @@
 ## 🦙 About Lamaglama39
-### Hello, I'm infrastructure engineer. 🤝
+### Hello, I'm SRE engineer. 🤝
 
 <br>
 
 ## ✨ Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=5&i=bash,linux,aws,firebase,docker,html,css,js,react,nodejs,py,flask,git,github,figma" />
+
+### language
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=javascript,typescript,python,rust,bash," />
+
+### frontend
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=react,nextjs,threejs" />
+
+### backend
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=nodejs,deno,flask,mysql,dynamodb" />
+
+### infrastructure
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=aws,gcp,cloudflare,docker,kubernetes,terraform,ansible" />
+
+### tool
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=github,githubactions,gitlab,figma" />
+
 
 <br>
 
