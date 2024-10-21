@@ -21,11 +21,16 @@
 <img height="60px" src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png">
 <img height="60px" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
 <img height="60px" src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png">
+<img height="60px" src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png">
 </div>
 <div>
 <img height="60px" src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png">
 <img height="60px" src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png">
 <img height="60px" src="https://images.credly.com/size/340x340/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png">
+</div>
+<div>
+<img height="60px" src="https://learn.microsoft.com/ja-jp/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg">
+<img height="60px" src="https://learn.microsoft.com/ja-jp/media/learn/certification/badges/microsoft-certified-associate-badge.svg">
 </div>
 
 ## 📜 Status
