@@ -31,6 +31,8 @@
 <div>
 <img height="60px" src="https://learn.microsoft.com/ja-jp/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg">
 <img height="60px" src="https://learn.microsoft.com/ja-jp/media/learn/certification/badges/microsoft-certified-associate-badge.svg">
+<img height="60px" src="https://learn.microsoft.com/ja-jp/media/learn/certification/badges/microsoft-certified-expert-badge.svg">
+
 </div>
 
 ## 📜 Status
