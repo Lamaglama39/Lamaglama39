@@ -7,7 +7,7 @@
 
 - 🔧 I'm cloud engineer.
 - 📝 Currently learning Go,Rust.
-- 💡 My portfolio : [About Lamaglama39](https://lamaglama39.github.io/About-Lamaglama39)
+- 💡 My portfolio : [About Lamaglama39](https://about.lamaglama39.dev)
 - 📨 How to reach me : [Twitter - @lamaglama39](https://twitter.com/lamaglama39)
 - 🏆 Certification : [credly](https://www.credly.com/users/haruka-akaike)
 
